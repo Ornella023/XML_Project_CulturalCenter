@@ -3,7 +3,7 @@
 This project involves the creation of a cultural center (activities, events, ticket sales, etc.) using XML.
 We created the XML file and its corresponding XML schema. We then developed 5 scenarios using XSLT stylesheets.
 Additionally, we performed a transformation using the Python language.
-All of the above was based on the XML tree and the fictitious activity schedule we previously established.
+All of the above was based on the XML tree and the fictitious activities schedule we previously established.
 
 ## Table of Contents
 
@@ -18,13 +18,13 @@ All of the above was based on the XML tree and the fictitious activity schedule 
         - List of attendees
         - List of professors's contact
 
-    4. Output of XSLT Transformation (5 scenarios)
+    4. Output of XSLT Transformations (5 scenarios)
 
     5. Python Transformation
 
     5. Json file 
 
-    6. Annex : Cultural Center Planning & XML Tree
+    6. Annex : XML Tree & Activities Planning
 
 
 ## Installation : 
