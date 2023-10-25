@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="CulturalCenter">
+ <xs:complexType>
+   <xs:sequence>
+
+<!--Implementing "WEEKLYPLANNING" entity of the Diagram-->
+   
+<xs:element name="WeeklyPlanning">
+ <xs:complexType>
+   <xs:sequence>
+
+<!--Defining "Activity" section-->
+   
+<xs:element name="Activity">
+<xs:complexType>
+ <xs:sequence>
+   <xs:element name="Activity" maxOccurs="unbounded">
+   <xs:complexType>
+   <xs:sequence>
+	 <xs:element name="Type" type="xs:string"/>
+	 <xs:element name="Day" type="xs:string"/>
+	 <xs:element name="TimeStart" type="xs:string"/>
+	 <xs:element name="TimeEnd" type="xs:string"/>
+	 <xs:element name="Professor" type="xs:string"/>
+	 <xs:element name="Room" type="xs:string"/>
+	 <xs:element name="Capacity" type="xs:integer"/>
+    </xs:sequence>
+   </xs:complexType >
+   </xs:element> 
+  </xs:sequence>
+</xs:complexType >
+</xs:element>
+
+<!--Defining "Event" section-->
+ 
+<xs:element name="Event">
+<xs:complexType>
+ <xs:sequence>
+   <xs:element name="Event" maxOccurs="unbounded">
+   <xs:complexType>
+   <xs:sequence>
+	<xs:element name="Type" type="xs:string"/>
+	<xs:element name="EventName" type="xs:string"/>
+	<xs:element name="Performer" type="xs:string"/>
+	<xs:element name="Day" type="xs:string"/>
+	<xs:element name="TimeStart" type="xs:string"/>
+	<xs:element name="TimeEnd" type="xs:string"/>
+	<xs:element name="Room" type="xs:string"/>
+	<xs:element name="Capacity" type="xs:integer"/>
+   </xs:sequence>
+  </xs:complexType>
+  </xs:element>
+ </xs:sequence>
+</xs:complexType>
+</xs:element>
+ 
+   </xs:sequence>
+ </xs:complexType>
+</xs:element>
+
+<!--Implementing "SALES" entity of the Diagram-->
+
+<xs:element name="Sales">
+ <xs:complexType>
+   <xs:sequence>
+
+<!--Defining "Ticketing Category" Section : 2 different categories  = "AnnualSeasonTicket" and "IndividualTicket"-->
+
+<xs:element name="TicketingCategory">
+ <xs:complexType>
+   <xs:sequence>
+   
+<!--Defining "AnnualSeasonTicket" field-->
+   
+ <xs:element name="AnnualSeasonTicket">
+ <xs:complexType>
+   <xs:sequence>  
+	<xs:element name="Category" type="xs:string"/>
+	<xs:element name="Fare">
+     <xs:complexType>
+      <xs:simpleContent>
+       <xs:extension base="xs:decimal">
+        <xs:attribute name="currency" type="xs:string"/>
+       </xs:extension>
+      </xs:simpleContent>
+     </xs:complexType>
+    </xs:element>
+  </xs:sequence>
+ </xs:complexType >
+ </xs:element>
+ 
+ <!--Defining "IndividualTicket" field-->
+   
+ <xs:element name="IndividualTicket" maxOccurs="unbounded">
+ <xs:complexType>
+   <xs:sequence>  
+	<xs:element name="Category" type="xs:string"/>
+	<xs:element name="Fare">
+     <xs:complexType>
+      <xs:simpleContent>
+       <xs:extension base="xs:decimal">
+        <xs:attribute name="currency" type="xs:string"/>
+       </xs:extension>
+      </xs:simpleContent>
+     </xs:complexType>
+    </xs:element>
+  </xs:sequence>
+ </xs:complexType >
+ </xs:element>
+ 
+   </xs:sequence>
+ </xs:complexType>
+</xs:element>
+ 
+
+<!--Defining "Attendees" Section -->
+
+<xs:element name="Attendees">
+<xs:complexType>
+ <xs:sequence>
+   <xs:element name="Attendee" maxOccurs="unbounded">
+   <xs:complexType>
+    <xs:sequence>
+	 <xs:element name="TicketingCategory" type="xs:string"/>
+	 <xs:element name="ActivityRegistration" type="xs:string"/>
+	 <xs:element name="Day" type="xs:string"/>
+	 <xs:element name="TimeStart" type="xs:string"/>
+	 <xs:element name="NameOfAttendee" type="xs:string"/>
+	 <xs:element name="ContactDetails">
+	  <xs:complexType>
+	   <xs:sequence> 
+	    <xs:element name="Email" type="xs:string"/>
+	    <xs:element name="PhoneNumber" type="xs:string"/>
+	   </xs:sequence>
+	  </xs:complexType>
+	 </xs:element>
+	<xs:element name="RegistrationMode" type="xs:string"/>
+	<xs:element name="PaymentMode" type="xs:string"/>
+   </xs:sequence>
+  </xs:complexType>
+ </xs:element>
+ </xs:sequence>
+</xs:complexType>
+</xs:element>
+
+  </xs:sequence>
+ </xs:complexType>
+</xs:element>
+
+<!--Implementing "ADMINISTRATION" entity of the Diagram--> 
+ 
+<xs:element name="Administration">
+ <xs:complexType>
+   <xs:sequence>
+   
+<!--Defining "Professors" Section -->
+
+<xs:element name="Professors">
+<xs:complexType>
+ <xs:sequence>
+  <xs:element name="Professor" maxOccurs="unbounded">
+   <xs:complexType>
+    <xs:sequence>
+	 <xs:element name="Name" type="xs:string"/>
+     <xs:element name="Discipline" type="xs:string"/>
+	 <xs:element name="ContactDetails">
+	  <xs:complexType>
+	   <xs:sequence> 
+	    <xs:element name="Email" type="xs:string"/>
+	    <xs:element name="PhoneNumber" type="xs:string"/>
+	  </xs:sequence>
+	 </xs:complexType>
+	</xs:element>
+ 	<xs:element name="SalaryPerHour">
+    <xs:complexType>
+       <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+         <xs:attribute name="currency" type="xs:string"/>
+         </xs:extension>
+        </xs:simpleContent>
+       </xs:complexType>
+      </xs:element> 
+	 <xs:element name="WorkingSchedule" maxOccurs="unbounded">
+	 <xs:complexType>
+	  <xs:sequence> 
+	   <xs:element name="Day" type="xs:string"/>
+	   <xs:element name="TimeStart" type="xs:string"/>
+	   <xs:element name="TimeEnd" type="xs:string"/>
+	    </xs:sequence>
+	   </xs:complexType>
+	  </xs:element>
+     </xs:sequence>
+    </xs:complexType>
+   </xs:element>
+  </xs:sequence>
+ </xs:complexType>
+</xs:element>
+   
+<!--Defining "Artists" Section -->
+
+<xs:element name="Artists">
+ <xs:complexType>
+  <xs:sequence>
+    <xs:element name="Performer" maxOccurs="unbounded">
+     <xs:complexType>
+      <xs:sequence>
+	  <xs:element name="Name" type="xs:string"/>
+	  <xs:element name="ShowName" type="xs:string"/>
+	  <xs:element name="Discipline" type="xs:string"/>
+	  <xs:element name="ActingSchedule">
+	  <xs:complexType>
+	   <xs:sequence> 
+	    <xs:element name="Day" type="xs:string"/>
+	    <xs:element name="TimeStart" type="xs:string"/>
+	    <xs:element name="TimeEnd" type="xs:string"/>
+	  </xs:sequence>
+	  </xs:complexType>
+	  </xs:element>
+	  <xs:element name="ContactDetails">
+	  <xs:complexType>
+	   <xs:sequence> 
+	    <xs:element name="Email" type="xs:string"/>
+	    <xs:element name="PhoneNumber" type="xs:string"/>
+	  </xs:sequence>
+	 </xs:complexType>
+	 </xs:element>
+	 <xs:element name="FarePerHour">
+      <xs:complexType>
+       <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+         <xs:attribute name="currency" type="xs:string"/>
+         </xs:extension>
+        </xs:simpleContent>
+       </xs:complexType>
+      </xs:element>
+     </xs:sequence>
+    </xs:complexType>
+   </xs:element>  
+  </xs:sequence>
+ </xs:complexType>
+</xs:element>
+
+  </xs:sequence>
+ </xs:complexType>
+</xs:element>
+
+  </xs:sequence>
+ </xs:complexType>
+</xs:element>
+</xs:schema>

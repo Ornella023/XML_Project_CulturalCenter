@@ -1,0 +1,3048 @@
+[
+ {
+  "{": "  \"WeeklyPlanning\": {"
+ },
+ null,
+ {
+  "{": "\/\/ Weekly activity schedule",
+  "Column2": " including type",
+  "Column3": " day",
+  "Column4": " time",
+  "Column5": " professor",
+  "Column6": " room",
+  "Column7": " and capacity."
+ },
+ null,
+ {
+  "{": "    \"Activity\": ["
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"English Beginner\""
+ },
+ {
+  "{": "        \"Day\": \"Monday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Derek\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": " \/\/ Additional activity entries with similar structure."
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Book Club\""
+ },
+ {
+  "{": "        \"Day\": \"Monday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Sophie\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Guitar Lesson\""
+ },
+ {
+  "{": "        \"Day\": \"Monday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Sam\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Yoga\""
+ },
+ {
+  "{": "        \"Day\": \"Monday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Elisa\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Drawing Class\""
+ },
+ {
+  "{": "        \"Day\": \"Monday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"17:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"19:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Simon\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Tai chi\""
+ },
+ {
+  "{": "        \"Day\": \"Monday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Sarah\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Spanish Beginner\""
+ },
+ {
+  "{": "        \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Julio\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Pilates\""
+ },
+ {
+  "{": "        \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"09:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"11:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Jim\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Capoeira\""
+ },
+ {
+  "{": "        \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Lionel\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Calligraphy\""
+ },
+ {
+  "{": "        \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Professor\": \"John\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Salsa Beginner\""
+ },
+ {
+  "{": "        \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"17:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"19:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Eva\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Guitar Lesson\""
+ },
+ {
+  "{": "        \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"19:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Sam\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Calligraphy\""
+ },
+ {
+  "{": "        \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"John\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Book Club\""
+ },
+ {
+  "{": "        \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Sophie\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Tai chi\""
+ },
+ {
+  "{": "        \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"09:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"11:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Sarah\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Yoga\""
+ },
+ {
+  "{": "        \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Elisa\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Drawing class\""
+ },
+ {
+  "{": "        \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"16:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"18:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Simon\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"English Beginner\""
+ },
+ {
+  "{": "        \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Derek\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Salsa Intermediate\""
+ },
+ {
+  "{": "        \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Eva\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"English Intermediate\""
+ },
+ {
+  "{": "        \"Day\": \"Thursday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Derek\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Pilates\""
+ },
+ {
+  "{": "        \"Day\": \"Thursday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Jim\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Capoeira\""
+ },
+ {
+  "{": "        \"Day\": \"Thursday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Lionel\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Spanish beginner\""
+ },
+ {
+  "{": "        \"Day\": \"Thursday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"17:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"19:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Julio\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Calligraphy\""
+ },
+ {
+  "{": "        \"Day\": \"Thursday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Professor\": \"John\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Spanish Intermediate\""
+ },
+ {
+  "{": "        \"Day\": \"Friday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Julio\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Drawing Class\""
+ },
+ {
+  "{": "        \"Day\": \"Friday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Simon\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Pilates\""
+ },
+ {
+  "{": "        \"Day\": \"Friday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Jim\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"English Intermediate\""
+ },
+ {
+  "{": "        \"Day\": \"Friday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"17:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"19:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Derek\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Yoga\""
+ },
+ {
+  "{": "        \"Day\": \"Friday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Elisa\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Drawing Class\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Simon\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Spanish Intermediate\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Julio\""
+ },
+ {
+  "{": "        \"Room\": \"Red\""
+ },
+ {
+  "{": "        \"Capacity\": \"20\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Salsa Intermediate\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Eva\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Capoeira\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Lionel\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Yoga\""
+ },
+ {
+  "{": "        \"Day\": \"Sunday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"09:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"11:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Elisa\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Tai Chi\""
+ },
+ {
+  "{": "        \"Day\": \"Sunday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "        \"Professor\": \"Sarah\""
+ },
+ {
+  "{": "        \"Room\": \"Green\""
+ },
+ {
+  "{": "        \"Capacity\": \"30\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "    ]"
+ },
+ {
+  "{": "    \"Event\": ["
+ },
+ null,
+ {
+  "{": "\/\/ Special events scheduled during the week",
+  "Column2": " including type",
+  "Column3": " event name",
+  "Column4": " performer",
+  "Column5": " day",
+  "Column6": " time",
+  "Column7": " room",
+  "Column8": " and capacity."
+ },
+ null,
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Theater\""
+ },
+ {
+  "{": "        \"EventName\": \"Le voyage de Darwin\""
+ },
+ {
+  "{": "        \"Performer\": \"Mann Cie\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"16:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"18:00\""
+ },
+ {
+  "{": "        \"Room\": \"RedGreen\""
+ },
+ {
+  "{": "        \"Capacity\": \"50\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Concert\""
+ },
+ {
+  "{": "        \"EventName\": \"Equinoxe\""
+ },
+ {
+  "{": "        \"Performer\": \"MC Solaar\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Room\": \"RedGreen\""
+ },
+ {
+  "{": "        \"Capacity\": \"50\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"One Man Show\""
+ },
+ {
+  "{": "        \"EventName\": \"Dragon\""
+ },
+ {
+  "{": "        \"Performer\": \"Kheiron\""
+ },
+ {
+  "{": "        \"Day\": \"Sunday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"16:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"18:00\""
+ },
+ {
+  "{": "        \"Room\": \"RedGreen\""
+ },
+ {
+  "{": "        \"Capacity\": \"50\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Type\": \"Flamenco Show\""
+ },
+ {
+  "{": "        \"EventName\": \"Ole\""
+ },
+ {
+  "{": "        \"Performer\": \"Adela Campallo\""
+ },
+ {
+  "{": "        \"Day\": \"Sunday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        \"Room\": \"RedGreen\""
+ },
+ {
+  "{": "        \"Capacity\": \"50\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "    ]"
+ },
+ {
+  "{": "  }"
+ },
+ null,
+ {
+  "{": "\/\/ Ticketing categories and fares for the activities and events."
+ },
+ null,
+ {
+  "{": "  \"Sales\": {"
+ },
+ {
+  "{": "    \"TicketingCategory\":  {"
+ },
+ {
+  "{": "      \"AnnualSeasonTicket\": {"
+ },
+ {
+  "{": "        \"Category\": \"Unlimited Access\""
+ },
+ {
+  "{": "        \"Fare\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"120\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      \"IndividualTicket\": ["
+ },
+ {
+  "{": "        {"
+ },
+ {
+  "{": "          \"Category\": \"Resident\""
+ },
+ {
+  "{": "          \"Fare\": {"
+ },
+ {
+  "{": "            \"@currency\": \"EUR\""
+ },
+ {
+  "{": "            \"#text\": \"10\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        {"
+ },
+ {
+  "{": "          \"Category\": \"Out of town\""
+ },
+ {
+  "{": "          \"Fare\": {"
+ },
+ {
+  "{": "            \"@currency\": \"EUR\""
+ },
+ {
+  "{": "            \"#text\": \"15\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        {"
+ },
+ {
+  "{": "          \"Category\": \"Student\""
+ },
+ {
+  "{": "          \"Fare\": {"
+ },
+ {
+  "{": "            \"@currency\": \"EUR\""
+ },
+ {
+  "{": "            \"#text\": \"7\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        {"
+ },
+ {
+  "{": "          \"Category\": \"Jobless\""
+ },
+ {
+  "{": "          \"Fare\": {"
+ },
+ {
+  "{": "            \"@currency\": \"EUR\""
+ },
+ {
+  "{": "            \"#text\": \"7\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "      ]"
+ },
+ {
+  "{": "    }"
+ },
+ null,
+ {
+  "{": "\/\/Information about attendees",
+  "Column2": " their chosen ticketing category",
+  "Column3": " activity\/event registration",
+  "Column4": " day",
+  "Column5": " time",
+  "Column6": " contact details",
+  "Column7": " registration mode",
+  "Column8": " and payment mode."
+ },
+ null,
+ {
+  "{": "    \"Attendees\": ["
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"AnnualSeasonTicket\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Calligraphy\""
+ },
+ {
+  "{": "        \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Samantha\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Samantha@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323247\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"CB\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"Resident\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Capoeira\""
+ },
+ {
+  "{": "        \"Day\": \"Thursday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Mick\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Mick@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323275\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Onsite\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"Cash\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"OutOfTown\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Book Club\""
+ },
+ {
+  "{": "        \"Day\": \"Monday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Salim\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Salim@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323271\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Onsite\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"CB\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"Student\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"English Beginner\""
+ },
+ {
+  "{": "        \"Day\": \"Monday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Sandy\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Sandy@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323200\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"Paypal\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"Jobless\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Book Club\""
+ },
+ {
+  "{": "        \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Blaise\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Blaise@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323233\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"CB\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"AnnualSeasonTicket\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Tai Chi\""
+ },
+ {
+  "{": "        \"Day\": \"Sunday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Siham\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Siham@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"06523232496\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"CB\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"AnnualSeasonTicket\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Yoga\""
+ },
+ {
+  "{": "        \"Day\": \"Sunday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"09:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Serguei\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Serguei@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"06523232477\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"CB\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"Student\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"English Intermediate\""
+ },
+ {
+  "{": "        \"Day\": \"Thursday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Milou\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Milou@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323262\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"Paypal\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"Student\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Spanish Intermediate\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Mareva\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Mareva@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323246\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Onsite\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"Cash\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"Jobless\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Pilates\""
+ },
+ {
+  "{": "        \"Day\": \"Thursday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Brigitte\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Brigitte@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323299\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"CB\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"Student\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Concert\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Marina\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Marina@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0652323211\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Onsite\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"Cash\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"AnnualSeasonTicket\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Theater\""
+ },
+ {
+  "{": "        \"Day\": \"Saturday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"16:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Serge\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Serge@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"06523232495\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"CB\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"AnnualSeasonTicket\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"One Man Show\""
+ },
+ {
+  "{": "        \"Day\": \"Sunday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"16:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Gino\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Gino@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"06523232422\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Online\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"Paypal\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"TicketingCategory\": \"OutOfTown\""
+ },
+ {
+  "{": "        \"ActivityRegistration\": \"Flamenco Show\""
+ },
+ {
+  "{": "        \"Day\": \"Sunday\""
+ },
+ {
+  "{": "        \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "        \"NameOfAttendee\": \"Feliciana\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Feliciana@gmail.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"06523232441\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"RegistrationMode\": \"Onsite\""
+ },
+ {
+  "{": "        \"PaymentMode\": \"Cash\""
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "    ]"
+ },
+ {
+  "{": "  }"
+ },
+ null,
+ {
+  "{": "\/\/ Information about the professors",
+  "Column2": " including name",
+  "Column3": " discipline",
+  "Column4": " contact details",
+  "Column5": " salary per hour",
+  "Column6": " and working schedule."
+ },
+ null,
+ {
+  "{": "  \"Administration\":  {"
+ },
+ {
+  "{": "    \"Professors\": ["
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Derek\""
+ },
+ {
+  "{": "        \"Discipline\": \"English\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"derek@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232525\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"25\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Monday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Thursday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Friday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"17:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"19:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Julio\""
+ },
+ {
+  "{": "        \"Discipline\": \"Spanish\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Julio@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232526\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"25\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Thursday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"17:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"19:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Friday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Saturday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Simon\""
+ },
+ {
+  "{": "        \"Discipline\": \"Drawing\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Simon@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232527\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"30\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Monday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"17:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"19:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"16:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"18:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Friday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Saturday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Elisa\""
+ },
+ {
+  "{": "        \"Discipline\": \"Yoga\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Elisa@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232528\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"30\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Monday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Friday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Sunday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"09:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"11:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Sarah\""
+ },
+ {
+  "{": "        \"Discipline\": \"Tai Chi\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Sarah@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232529\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"37\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Monday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"09:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"11:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Sunday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Lionel\""
+ },
+ {
+  "{": "        \"Discipline\": \"Capoeira\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Lionel@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232530\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"28\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Thursday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Saturday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"14:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"John\""
+ },
+ {
+  "{": "        \"Discipline\": \"Calligraphy\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"John@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232531\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"42\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Thursday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Jim\""
+ },
+ {
+  "{": "        \"Discipline\": \"Pilates\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Jim@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232532\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"26\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"09:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"11:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Thursday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Friday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Eva\""
+ },
+ {
+  "{": "        \"Discipline\": \"Salsa\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Eva@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232533\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"34\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"17:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"19:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Sunday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"10:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Sophie\""
+ },
+ {
+  "{": "        \"Discipline\": \"Book Club\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Sophie@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232534\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"23\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Monday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Wednesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"12:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"13:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Sam\""
+ },
+ {
+  "{": "        \"Discipline\": \"Guitar\""
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Sam@culture.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0623232535\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"SalaryPerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"33\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"WorkingSchedule\": ["
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Monday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "          {"
+ },
+ {
+  "{": "            \"Day\": \"Tuesday\""
+ },
+ {
+  "{": "            \"TimeStart\": \"11:00\""
+ },
+ {
+  "{": "            \"TimeEnd\": \"12:00\""
+ },
+ {
+  "{": "          }"
+ },
+ {
+  "{": "        ]"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "    ]"
+ },
+ null,
+ {
+  "{": "\/\/ Information about artists",
+  "Column2": " including name",
+  "Column3": " show name",
+  "Column4": " discipline",
+  "Column5": " acting schedule",
+  "Column6": " contact details",
+  "Column7": " and fare per hour."
+ },
+ null,
+ {
+  "{": "    \"Artists\": ["
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Mann Cie\""
+ },
+ {
+  "{": "        \"ShowName\": \"Le voyage de Darwin\""
+ },
+ {
+  "{": "        \"Discipline\": \"Theater\""
+ },
+ {
+  "{": "        \"ActingSchedule\": {"
+ },
+ {
+  "{": "          \"Day\": \"Saturday\""
+ },
+ {
+  "{": "          \"TimeStart\": \"16:00\""
+ },
+ {
+  "{": "          \"TimeEnd\": \"18:00\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"manncie@externe.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0689654214\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"FarePerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"250\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Mc Solaar\""
+ },
+ {
+  "{": "        \"ShowName\": \"Equinoxe\""
+ },
+ {
+  "{": "        \"Discipline\": \"Concert\""
+ },
+ {
+  "{": "        \"ActingSchedule\": {"
+ },
+ {
+  "{": "          \"Day\": \"Saturday\""
+ },
+ {
+  "{": "          \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "          \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"mcsolaar@externe\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0689654215\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"FarePerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"500\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Kheiron\""
+ },
+ {
+  "{": "        \"ShowName\": \"Dragon\""
+ },
+ {
+  "{": "        \"Discipline\": \"One man show\""
+ },
+ {
+  "{": "        \"ActingSchedule\": {"
+ },
+ {
+  "{": "          \"Day\": \"Sunday\""
+ },
+ {
+  "{": "          \"TimeStart\": \"16:00\""
+ },
+ {
+  "{": "          \"TimeEnd\": \"18:00\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"Kheiron@externe.com\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0689654286\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"FarePerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"300\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "      {"
+ },
+ {
+  "{": "        \"Name\": \"Adela Campallo\""
+ },
+ {
+  "{": "        \"ShowName\": \"Ole\""
+ },
+ {
+  "{": "        \"Discipline\": \"Flamenco Show\""
+ },
+ {
+  "{": "        \"ActingSchedule\": {"
+ },
+ {
+  "{": "          \"Day\": \"Sunday\""
+ },
+ {
+  "{": "          \"TimeStart\": \"18:00\""
+ },
+ {
+  "{": "          \"TimeEnd\": \"20:00\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"ContactDetails\": {"
+ },
+ {
+  "{": "          \"Email\": \"adelacampallo@externe\""
+ },
+ {
+  "{": "          \"PhoneNumber\": \"0689654292\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "        \"FarePerHour\": {"
+ },
+ {
+  "{": "          \"@currency\": \"EUR\""
+ },
+ {
+  "{": "          \"#text\": \"425\""
+ },
+ {
+  "{": "        }"
+ },
+ {
+  "{": "      }"
+ },
+ {
+  "{": "    ]"
+ },
+ {
+  "{": "  }"
+ },
+ {
+  "{": "}"
+ }
+]

@@ -1,0 +1,934 @@
+<?xml version="1.0"?>
+<CulturalCenter>
+
+<!--Implementing "WEEKLYPLANNING" entity of the Diagram-->
+ <WeeklyPlanning>
+ 
+  <!--Defining "Activity" section and all the activities of the week represented in the planning-->
+  <Activity>
+   <Activity>
+	 <Type>English Beginner</Type>
+	 <Day>Monday</Day>
+	 <TimeStart>10:00</TimeStart>
+	 <TimeEnd>12:00</TimeEnd>
+	 <Professor>Derek</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Book Club</Type>  
+	 <Day>Monday</Day>
+	 <TimeStart>12:00</TimeStart>
+	 <TimeEnd>13:00</TimeEnd>
+	 <Professor>Sophie</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Guitar Lesson</Type>
+	 <Day>Monday</Day>
+	 <TimeStart>11:00</TimeStart>
+	 <TimeEnd>12:00</TimeEnd>
+	 <Professor>Sam</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Yoga</Type>
+	 <Day>Monday</Day>
+	 <TimeStart>12:00</TimeStart>
+	 <TimeEnd>14:00</TimeEnd>
+	 <Professor>Elisa</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Drawing Class</Type>
+	 <Day>Monday</Day>
+	 <TimeStart>17:00</TimeStart>
+	 <TimeEnd>19:00</TimeEnd>
+	 <Professor>Simon</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Tai chi</Type>
+	 <Day>Monday</Day>
+	 <TimeStart>18:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Professor>Sarah</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Spanish Beginner</Type>
+	 <Day>Tuesday</Day>
+	 <TimeStart>10:00</TimeStart>
+	 <TimeEnd>12:00</TimeEnd>
+	 <Professor>Julio</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Pilates</Type>
+	 <Day>Tuesday</Day>
+	 <TimeStart>09:00</TimeStart>
+	 <TimeEnd>11:00</TimeEnd>
+	 <Professor>Jim</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Capoeira</Type>
+	 <Day>Tuesday</Day>
+	 <TimeStart>11:00</TimeStart>
+	 <TimeEnd>13:00</TimeEnd>
+	 <Professor>Lionel</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Calligraphy</Type>
+	 <Day>Tuesday</Day>
+	 <TimeStart>18:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Professor>John</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Salsa Beginner</Type>
+	 <Day>Tuesday</Day>
+	 <TimeStart>17:00</TimeStart>
+	 <TimeEnd>19:00</TimeEnd>
+	 <Professor>Eva</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Guitar Lesson</Type>
+	 <Day>Tuesday</Day>
+	 <TimeStart>19:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Professor>Sam</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Calligraphy</Type>
+	 <Day>Wednesday</Day>
+	 <TimeStart>10:00</TimeStart>
+	 <TimeEnd>12:00</TimeEnd>
+	 <Professor>John</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Book Club</Type>
+	 <Day>Wednesday</Day>
+	 <TimeStart>12:00</TimeStart>
+	 <TimeEnd>13:00</TimeEnd>
+	 <Professor>Sophie</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Tai chi</Type>
+	 <Day>Wednesday</Day>
+	 <TimeStart>09:00</TimeStart>
+	 <TimeEnd>11:00</TimeEnd>
+	 <Professor>Sarah</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Yoga</Type>
+	 <Day>Wednesday</Day>
+	 <TimeStart>11:00</TimeStart>
+	 <TimeEnd>13:00</TimeEnd>
+	 <Professor>Elisa</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Drawing class</Type>
+	 <Day>Wednesday</Day>
+	 <TimeStart>16:00</TimeStart>
+	 <TimeEnd>18:00</TimeEnd>
+	 <Professor>Simon</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>English Beginner</Type>
+	 <Day>Wednesday</Day>
+	 <TimeStart>18:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Professor>Derek</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Salsa Intermediate</Type>
+	 <Day>Wednesday</Day>
+	 <TimeStart>18:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Professor>Eva</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	  <Type>English Intermediate</Type>
+	  <Day>Thursday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	  <Professor>Derek</Professor>
+	  <Room>Red</Room>
+	  <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Pilates</Type>
+	 <Day>Thursday</Day>
+	 <TimeStart>10:00</TimeStart>
+	 <TimeEnd>12:00</TimeEnd>
+	 <Professor>Jim</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Capoeira</Type>
+	 <Day>Thursday</Day>
+	 <TimeStart>12:00</TimeStart>
+	 <TimeEnd>14:00</TimeEnd>
+	 <Professor>Lionel</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Spanish beginner</Type>
+	 <Day>Thursday</Day>
+	 <TimeStart>17:00</TimeStart>
+	 <TimeEnd>19:00</TimeEnd>
+	 <Professor>Julio</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Calligraphy</Type>
+	 <Day>Thursday</Day>
+	 <TimeStart>18:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Professor>John</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Spanish Intermediate</Type>
+	 <Day>Friday</Day>
+	 <TimeStart>10:00</TimeStart>
+	 <TimeEnd>12:00</TimeEnd>
+	 <Professor>Julio</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Drawing Class</Type>
+	 <Day>Friday</Day>
+	 <TimeStart>12:00</TimeStart>
+	 <TimeEnd>14:00</TimeEnd>
+	 <Professor>Simon</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Pilates</Type>
+	 <Day>Friday</Day>
+	 <TimeStart>11:00</TimeStart>
+	 <TimeEnd>13:00</TimeEnd>
+	 <Professor>Jim</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>English Intermediate</Type>
+	 <Day>Friday</Day>
+	 <TimeStart>17:00</TimeStart>
+	 <TimeEnd>19:00</TimeEnd>
+	 <Professor>Derek</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Yoga</Type>
+	 <Day>Friday</Day>
+	 <TimeStart>18:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Professor>Elisa</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Drawing Class</Type>
+	 <Day>Saturday</Day>
+	 <TimeStart>10:00</TimeStart>
+	 <TimeEnd>12:00</TimeEnd>
+	 <Professor>Simon</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Spanish Intermediate</Type>
+	 <Day>Saturday</Day>
+	 <TimeStart>12:00</TimeStart>
+	 <TimeEnd>14:00</TimeEnd>
+	 <Professor>Julio</Professor>
+	 <Room>Red</Room>
+	 <Capacity>20</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Salsa Intermediate</Type>
+	 <Day>Saturday</Day>
+	 <TimeStart>10:00</TimeStart>
+	 <TimeEnd>12:00</TimeEnd>
+	 <Professor>Eva</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Capoeira</Type>
+	 <Day>Saturday</Day>
+	 <TimeStart>12:00</TimeStart>
+	 <TimeEnd>14:00</TimeEnd>
+	 <Professor>Lionel</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Yoga</Type>
+	 <Day>Sunday</Day>
+	 <TimeStart>09:00</TimeStart>
+	 <TimeEnd>11:00</TimeEnd>
+	 <Professor>Elisa</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+   <Activity>
+	 <Type>Tai Chi</Type>
+	 <Day>Sunday</Day>
+	 <TimeStart>11:00</TimeStart>
+	 <TimeEnd>13:00</TimeEnd>
+	 <Professor>Sarah</Professor>
+	 <Room>Green</Room>
+	 <Capacity>30</Capacity>
+   </Activity>
+  </Activity>
+  
+  <!--Defining "Event" section and all the events planned on the week-end-->
+  <Event>
+   <Event>
+	 <Type>Theater</Type>
+	 <EventName>Le voyage de Darwin</EventName>
+	 <Performer>Mann Cie</Performer>
+	 <Day>Saturday</Day>
+	 <TimeStart>16:00</TimeStart>
+	 <TimeEnd>18:00</TimeEnd>
+	 <Room>RedGreen</Room>
+	 <Capacity>50</Capacity>
+   </Event>
+   <Event>
+	 <Type>Concert</Type>
+	 <EventName>Equinoxe</EventName>
+	 <Performer>MC Solaar</Performer>
+	 <Day>Saturday</Day>
+	 <TimeStart>18:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Room>RedGreen</Room>
+	 <Capacity>50</Capacity>
+   </Event>
+   <Event>
+	<Type>One Man Show</Type>
+	 <EventName>Dragon</EventName>
+	 <Performer>Kheiron</Performer>
+	 <Day>Sunday</Day>
+	 <TimeStart>16:00</TimeStart>
+	 <TimeEnd>18:00</TimeEnd>
+	 <Room>RedGreen</Room>
+	 <Capacity>50</Capacity>
+   </Event>
+   <Event>
+	 <Type>Flamenco Show</Type>
+	 <EventName>Ole</EventName>
+	 <Performer>Adela Campallo</Performer>
+	 <Day>Sunday</Day>
+	 <TimeStart>18:00</TimeStart>
+	 <TimeEnd>20:00</TimeEnd>
+	 <Room>RedGreen</Room>
+	 <Capacity>50</Capacity>
+   </Event>
+  </Event>
+ </WeeklyPlanning>
+ 
+<!--Implementing "SALES" entity of the Diagram-->
+<Sales>	
+
+ <!--Defining "Ticketing Category" Section : 2 different categories  = "AnnualSeasonTicket" and "IndividualTicket"-->
+ <TicketingCategory>
+ 
+  <!--Defining "AnnualSeasonTicket" field : Only one category available "Unlimited access"-->
+  <AnnualSeasonTicket>
+    <Category>Unlimited Access</Category>
+    <Fare currency="EUR">120</Fare>
+  </AnnualSeasonTicket>
+  
+  <!--Defining "IndividualTicket" field : Four different categories-->
+  <IndividualTicket>
+    <Category>Resident</Category>
+    <Fare currency="EUR">10</Fare>
+  </IndividualTicket>
+  <IndividualTicket>
+    <Category>Out of town</Category>
+    <Fare currency="EUR">15</Fare>
+  </IndividualTicket>
+  <IndividualTicket>
+    <Category>Student</Category>
+    <Fare currency="EUR">7</Fare>
+  </IndividualTicket>
+  <IndividualTicket>
+    <Category>Jobless</Category>
+    <Fare currency="EUR">7</Fare>
+  </IndividualTicket>
+ </TicketingCategory>
+ 
+ <!--Defining "Attendees" Section : Sample of few attendees-->
+ <Attendees>
+  <Attendee>
+    <TicketingCategory>AnnualSeasonTicket</TicketingCategory>
+	<ActivityRegistration>Calligraphy</ActivityRegistration>
+	<Day>Tuesday</Day>
+	<TimeStart>18:00</TimeStart>
+	<NameOfAttendee>Samantha</NameOfAttendee>
+	<ContactDetails>
+	 <Email>Samantha@gmail.com</Email>
+	 <PhoneNumber>0652323247</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>CB</PaymentMode>
+  </Attendee>
+  <Attendee>
+    <TicketingCategory>Resident</TicketingCategory>
+	<ActivityRegistration>Capoeira</ActivityRegistration>
+	<Day>Thursday</Day>
+	<TimeStart>12:00</TimeStart>
+	<NameOfAttendee>Mick</NameOfAttendee>
+	<ContactDetails>
+	 <Email>Mick@gmail.com</Email>
+	 <PhoneNumber>0652323275</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Onsite</RegistrationMode>
+	<PaymentMode>Cash</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>OutOfTown</TicketingCategory>
+	<ActivityRegistration>Book Club</ActivityRegistration>
+	<Day>Monday</Day>
+	<TimeStart>12:00</TimeStart>
+	<NameOfAttendee>Salim</NameOfAttendee>
+	<ContactDetails>
+      <Email>Salim@gmail.com</Email>
+	  <PhoneNumber>0652323271</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Onsite</RegistrationMode>
+	<PaymentMode>CB</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>Student</TicketingCategory>
+	<ActivityRegistration>English Beginner</ActivityRegistration>
+	<Day>Monday</Day>
+	<TimeStart>10:00</TimeStart>
+	<NameOfAttendee>Sandy</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Sandy@gmail.com</Email>
+	  <PhoneNumber>0652323200</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>Paypal</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>Jobless</TicketingCategory>
+	<ActivityRegistration>Book Club</ActivityRegistration>
+	<Day>Wednesday</Day>
+	<TimeStart>12:00</TimeStart>
+	<NameOfAttendee>Blaise</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Blaise@gmail.com</Email>
+	  <PhoneNumber>0652323233</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>CB</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>AnnualSeasonTicket</TicketingCategory>
+	<ActivityRegistration>Tai Chi</ActivityRegistration>
+	<Day>Sunday</Day>
+	<TimeStart>11:00</TimeStart>
+	<NameOfAttendee>Siham</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Siham@gmail.com</Email>
+	  <PhoneNumber>06523232496</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>CB</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>AnnualSeasonTicket</TicketingCategory>
+	<ActivityRegistration>Yoga</ActivityRegistration>
+	<Day>Sunday</Day>
+	<TimeStart>09:00</TimeStart>
+	<NameOfAttendee>Serguei</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Serguei@gmail.com</Email>
+	  <PhoneNumber>06523232477</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>CB</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>Student</TicketingCategory>
+	<ActivityRegistration>English Intermediate</ActivityRegistration>
+	<Day>Thursday</Day>
+	<TimeStart>10:00</TimeStart>
+	<NameOfAttendee>Milou</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Milou@gmail.com</Email>
+	  <PhoneNumber>0652323262</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>Paypal</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>Student</TicketingCategory>
+	<ActivityRegistration>Spanish Intermediate</ActivityRegistration>
+	<Day>Saturday</Day>
+	<TimeStart>12:00</TimeStart>
+	<NameOfAttendee>Mareva</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Mareva@gmail.com</Email>
+	  <PhoneNumber>0652323246</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Onsite</RegistrationMode>
+	<PaymentMode>Cash</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>Jobless</TicketingCategory>
+	<ActivityRegistration>Pilates</ActivityRegistration>
+	<Day>Thursday</Day>
+	<TimeStart>10:00</TimeStart>
+	<NameOfAttendee>Brigitte</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Brigitte@gmail.com</Email>
+	  <PhoneNumber>0652323299</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>CB</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>Student</TicketingCategory>
+	<ActivityRegistration>Concert</ActivityRegistration>
+	<Day>Saturday</Day>
+	<TimeStart>18:00</TimeStart>
+	<NameOfAttendee>Marina</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Marina@gmail.com</Email>
+	  <PhoneNumber>0652323211</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Onsite</RegistrationMode>
+	<PaymentMode>Cash</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>AnnualSeasonTicket</TicketingCategory>
+	<ActivityRegistration>Theater</ActivityRegistration>
+	<Day>Saturday</Day>
+	<TimeStart>16:00</TimeStart>
+	<NameOfAttendee>Serge</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Serge@gmail.com</Email>
+	  <PhoneNumber>06523232495</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>CB</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>AnnualSeasonTicket</TicketingCategory>
+	<ActivityRegistration>One Man Show</ActivityRegistration>
+	<Day>Sunday</Day>
+	<TimeStart>16:00</TimeStart>
+	<NameOfAttendee>Gino</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Gino@gmail.com</Email>
+	  <PhoneNumber>06523232422</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Online</RegistrationMode>
+	<PaymentMode>Paypal</PaymentMode>
+  </Attendee>
+  <Attendee>
+	<TicketingCategory>OutOfTown</TicketingCategory>
+	<ActivityRegistration>Flamenco Show</ActivityRegistration>
+	<Day>Sunday</Day>
+	<TimeStart>18:00</TimeStart>
+	<NameOfAttendee>Feliciana</NameOfAttendee>
+	<ContactDetails>
+	  <Email>Feliciana@gmail.com</Email>
+	  <PhoneNumber>06523232441</PhoneNumber>
+	</ContactDetails>
+	<RegistrationMode>Onsite</RegistrationMode>
+	<PaymentMode>Cash</PaymentMode>
+  </Attendee>
+ </Attendees>
+</Sales>
+
+<!--Implementing "ADMINISTRATION" entity of the Diagram--> 
+<Administration>
+
+<!--Defining "Professors" Section : Information related to their personal details/ teaching planning and salary-->
+ <Professors>
+  <Professor>
+	<Name>Derek</Name>
+    <Discipline>English</Discipline>
+	<ContactDetails>
+	  <Email>derek@culture.com</Email>
+	  <PhoneNumber>0623232525</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">25</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Monday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Wednesday</Day>
+	  <TimeStart>18:00</TimeStart>
+	  <TimeEnd>20:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Thursday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Friday</Day>
+	  <TimeStart>17:00</TimeStart>
+	  <TimeEnd>19:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Julio</Name>
+    <Discipline>Spanish</Discipline>
+	<ContactDetails>
+	  <Email>Julio@culture.com</Email>
+	  <PhoneNumber>0623232526</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">25</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Tuesday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Thursday</Day>
+	  <TimeStart>17:00</TimeStart>
+	  <TimeEnd>19:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Friday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Saturday</Day>
+	  <TimeStart>12:00</TimeStart>
+	  <TimeEnd>14:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Simon</Name>
+    <Discipline>Drawing</Discipline>
+	<ContactDetails>
+	  <Email>Simon@culture.com</Email>
+	  <PhoneNumber>0623232527</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">30</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Monday</Day>
+	  <TimeStart>17:00</TimeStart>
+	  <TimeEnd>19:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Wednesday</Day>
+	  <TimeStart>16:00</TimeStart>
+	  <TimeEnd>18:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Friday</Day>
+	  <TimeStart>12:00</TimeStart>
+	  <TimeEnd>14:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Saturday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Elisa</Name>
+    <Discipline>Yoga</Discipline>
+	<ContactDetails>
+	  <Email>Elisa@culture.com</Email>
+	  <PhoneNumber>0623232528</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">30</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Monday</Day>
+	  <TimeStart>12:00</TimeStart>
+	  <TimeEnd>14:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Wednesday</Day>
+	  <TimeStart>11:00</TimeStart>
+	  <TimeEnd>13:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Friday</Day>
+	  <TimeStart>18:00</TimeStart>
+	  <TimeEnd>20:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Sunday</Day>
+	  <TimeStart>09:00</TimeStart>
+	  <TimeEnd>11:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Sarah</Name>
+    <Discipline>Tai Chi</Discipline>
+	<ContactDetails>
+	  <Email>Sarah@culture.com</Email>
+	  <PhoneNumber>0623232529</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">37</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Monday</Day>
+	  <TimeStart>18:00</TimeStart>
+	  <TimeEnd>20:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Wednesday</Day>
+	  <TimeStart>09:00</TimeStart>
+	  <TimeEnd>11:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Sunday</Day>
+	  <TimeStart>11:00</TimeStart>
+	  <TimeEnd>13:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Lionel</Name>
+    <Discipline>Capoeira</Discipline>
+	<ContactDetails>
+	  <Email>Lionel@culture.com</Email>
+	  <PhoneNumber>0623232530</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">28</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Tuesday</Day>
+	  <TimeStart>11:00</TimeStart>
+	  <TimeEnd>13:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Thursday</Day>
+	  <TimeStart>12:00</TimeStart>
+	  <TimeEnd>14:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Saturday</Day>
+	  <TimeStart>12:00</TimeStart>
+	  <TimeEnd>14:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>John</Name>
+    <Discipline>Calligraphy</Discipline>
+	<ContactDetails>
+	  <Email>John@culture.com</Email>
+	  <PhoneNumber>0623232531</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">42</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Tuesday</Day>
+	  <TimeStart>18:00</TimeStart>
+	  <TimeEnd>20:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Wednesday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Thursday</Day>
+	  <TimeStart>18:00</TimeStart>
+	  <TimeEnd>20:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Jim</Name>
+    <Discipline>Pilates</Discipline>
+	<ContactDetails>
+	  <Email>Jim@culture.com</Email>
+	  <PhoneNumber>0623232532</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">26</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Tuesday</Day>
+	  <TimeStart>09:00</TimeStart>
+	  <TimeEnd>11:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Thursday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Friday</Day>
+	  <TimeStart>11:00</TimeStart>
+	  <TimeEnd>13:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Eva</Name>
+    <Discipline>Salsa</Discipline>
+	<ContactDetails>
+	  <Email>Eva@culture.com</Email>
+	  <PhoneNumber>0623232533</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">34</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Tuesday</Day>
+	  <TimeStart>17:00</TimeStart>
+	  <TimeEnd>19:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Wednesday</Day>
+	  <TimeStart>18:00</TimeStart>
+	  <TimeEnd>20:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Sunday</Day>
+	  <TimeStart>10:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Sophie</Name>
+    <Discipline>Book Club</Discipline>
+	<ContactDetails>
+	  <Email>Sophie@culture.com</Email>
+	  <PhoneNumber>0623232534</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">23</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Monday</Day>
+	  <TimeStart>12:00</TimeStart>
+	  <TimeEnd>13:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Wednesday</Day>
+	  <TimeStart>12:00</TimeStart>
+	  <TimeEnd>13:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+  <Professor>
+	<Name>Sam</Name>
+    <Discipline>Guitar</Discipline>
+	<ContactDetails>
+	  <Email>Sam@culture.com</Email>
+	  <PhoneNumber>0623232535</PhoneNumber>
+	</ContactDetails>
+	<SalaryPerHour currency="EUR">33</SalaryPerHour>
+	<WorkingSchedule>
+	  <Day>Monday</Day>
+	  <TimeStart>11:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+	<WorkingSchedule>
+	  <Day>Tuesday</Day>
+	  <TimeStart>11:00</TimeStart>
+	  <TimeEnd>12:00</TimeEnd>
+	</WorkingSchedule>
+  </Professor>
+ </Professors>
+ 
+ <!--Defining "Artists" Section : Information related to their personal details/ acting planning and fare they are paid for the representation-->
+ <Artists>
+  <Performer>
+	<Name>Mann Cie</Name>
+	<ShowName>Le voyage de Darwin</ShowName>
+	<Discipline>Theater</Discipline>
+	<ActingSchedule>
+	  <Day>Saturday</Day>
+	  <TimeStart>16:00</TimeStart>
+	  <TimeEnd>18:00</TimeEnd>
+	</ActingSchedule>
+	<ContactDetails>
+	  <Email>manncie@externe.com</Email>
+	  <PhoneNumber>0689654214</PhoneNumber>
+	</ContactDetails>
+	<FarePerHour currency="EUR">250</FarePerHour>		
+  </Performer>
+  <Performer>
+	<Name>Mc Solaar</Name>
+	<ShowName>Equinoxe</ShowName>
+	<Discipline>Concert</Discipline>
+	<ActingSchedule>
+	  <Day>Saturday</Day>
+	  <TimeStart>18:00</TimeStart>
+	  <TimeEnd>20:00</TimeEnd>
+	</ActingSchedule>
+	<ContactDetails>
+	  <Email>mcsolaar@externe</Email>
+	  <PhoneNumber>0689654215</PhoneNumber>
+	</ContactDetails>
+	<FarePerHour currency="EUR">500</FarePerHour>		
+  </Performer>
+  <Performer>
+	<Name>Kheiron</Name>
+	<ShowName>Dragon</ShowName>
+	<Discipline>One man show</Discipline>
+	<ActingSchedule>
+	  <Day>Sunday</Day>
+	  <TimeStart>16:00</TimeStart>
+	  <TimeEnd>18:00</TimeEnd>
+	</ActingSchedule>
+	<ContactDetails>
+	  <Email>Kheiron@externe.com</Email>
+	  <PhoneNumber>0689654286</PhoneNumber>
+	</ContactDetails>
+	<FarePerHour currency="EUR">300</FarePerHour>		
+  </Performer>
+  <Performer>
+	<Name>Adela Campallo</Name>
+	<ShowName>Ole</ShowName>
+	<Discipline>Flamenco Show</Discipline>
+	<ActingSchedule>
+	  <Day>Sunday</Day>
+	  <TimeStart>18:00</TimeStart>
+	  <TimeEnd>20:00</TimeEnd>
+	</ActingSchedule>
+	<ContactDetails>
+	  <Email>adelacampallo@externe</Email>
+	  <PhoneNumber>0689654292</PhoneNumber>
+	</ContactDetails>
+	<FarePerHour currency="EUR">425</FarePerHour>		
+  </Performer>
+ </Artists>
+</Administration>
+</CulturalCenter>
